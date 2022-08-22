@@ -14,7 +14,11 @@
     "react-dom": "^16.13.1",
     "react-icons": "^4.4.0",
     "react-qr-barcode-scanner": "1.0.6",
-    "styled-components": "^5.3.5"
+    "styled-components": "^5.3.5",
+    "@emotion/react": "^11.0.0",
+    "@emotion/styled" :"^11.0.0",
+    "@chakra-ui/react":"^1.8.3",
+    "framer-motion":"^3"
   },
   "devDependencies": {
     "@rocketseat/eslint-config": "^1.1.3",

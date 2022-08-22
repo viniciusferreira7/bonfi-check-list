@@ -25,7 +25,7 @@ export const CheckListContainer = styled.form`
   cursor: pointer;
 
   &:hover {
-    transform: scale(1.08);
+    transform: scale(1.02);
     border: 2px solid ${(props) => props.theme['blue-700']};
 
     img {
